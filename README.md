@@ -1,2 +1,3 @@
 # portfolio
 My personal portfolio website
+It has starry skys now. and buttons without functionality. the buttons are ontop of the words. Ill fix that soon enough...
